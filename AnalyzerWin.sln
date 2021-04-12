@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Analyzer", "Analyzer.csproj", "{2295DE6F-74B7-4353-AF7F-285862E29796}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzerWin", "AnalyzerWin.csproj", "{C53A68C0-B896-4FA8-BEBA-4F3C5F777C77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2295DE6F-74B7-4353-AF7F-285862E29796}.Debug|x86.ActiveCfg = Debug|x86
-		{2295DE6F-74B7-4353-AF7F-285862E29796}.Debug|x86.Build.0 = Debug|x86
-		{2295DE6F-74B7-4353-AF7F-285862E29796}.Release|x86.ActiveCfg = Release|x86
-		{2295DE6F-74B7-4353-AF7F-285862E29796}.Release|x86.Build.0 = Release|x86
+		{C53A68C0-B896-4FA8-BEBA-4F3C5F777C77}.Debug|x86.ActiveCfg = Debug|x86
+		{C53A68C0-B896-4FA8-BEBA-4F3C5F777C77}.Debug|x86.Build.0 = Debug|x86
+		{C53A68C0-B896-4FA8-BEBA-4F3C5F777C77}.Release|x86.ActiveCfg = Release|x86
+		{C53A68C0-B896-4FA8-BEBA-4F3C5F777C77}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
